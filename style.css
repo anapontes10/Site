@@ -24,14 +24,46 @@ width: 15%;
 
  .linha1{
 background-color: #fcdddd;
-
-
+text-align: center;
+color: #C66E6E;
  }
-   
-    
 
 
+ .bola-azul{
+background: #E2F2F8;
+border-radius: 50%;
+width: 300px;
+height: 300px;
+ }
+.azul{
+color: #00B2FF;
+}
+  
+ .bola-amarela{
+  background: #F1FFBA;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+   }
+.amarelo{
+color: #BABD21;
+}
 
+   .bola-vermelha{
+    background: #FFA1A1;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+     }
+     .vermelho{
+      color: #F60000;
+     }
+
+     .linha2{
+      background-color: #fcdddd;
+      text-align: center;
+      color: #C66E6E;
+       }
 
   
 
